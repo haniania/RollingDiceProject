@@ -11,3 +11,4 @@ public class Main {
         r.makeRoll(Roll.RollType.NORMAL);
     }
 }
+
